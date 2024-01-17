@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "0998",
+      "name": "Areeb",
+      "username": "areebiqbal",
+      "email": "areebiqbal222@gmail.com",
+      "phone": "03337658874"
+    },
+    {
+      "id": "70a7",
+      "name": "Anosha",
+      "username": "anoshaiqbal",
+      "email": "anoshaiqbal230@gmail.com",
+      "phone": "03346728904"
+    },
+    {
+      "id": "7d75",
+      "name": "Ali",
+      "username": "alikhan",
+      "email": "alikhan21@gmail.com",
+      "phone": "03316537754"
+    },
+    {
+      "id": "6270",
+      "name": "",
+      "username": "",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}
